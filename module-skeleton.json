@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-statements-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-financial-statements",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-financial-statements-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/financial-statements.md",
+  "presentationPlan": "projects/accounting/vue/financial-statements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
